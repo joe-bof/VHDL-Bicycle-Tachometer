@@ -2,7 +2,7 @@
 VHDL code that simulates a bicycle tachometer; compared with breadboard and Quartus tachometers.
 
 
-Files included:
+Files included (3):
 
 TACHOMETERFINAL.vhd --> simulated digitial tachometer.
 
